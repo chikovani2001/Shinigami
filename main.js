@@ -25,7 +25,7 @@ function getItem(){
 
 
         var elem1 = document.createElement("img");
-        elem1.src = '/images/eat.gif';
+        elem1.src = 'eat.gif';
         elem1.setAttribute("height", "200");
         elem1.setAttribute("width", "200");
         elem1.setAttribute("alt", "dea1");
@@ -43,7 +43,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/shinigami1.jpg'
+        elem4.src = 'shinigami1.jpg'
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -59,7 +59,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = 'papi.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -75,7 +75,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = '1.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -91,7 +91,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';;
+        elem4.src = 'dea1.gif';;
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -108,7 +108,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/boo3.gif';;
+        elem4.src = 'boo3.gif';;
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -124,7 +124,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/gigi.jpg';
+        elem4.src = 'gigi.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -140,7 +140,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea2.gif';
+        elem4.src = '2.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -156,7 +156,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = 'dea1.gif';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -172,7 +172,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/d2.jpg';
+        elem4.src = 'd2.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -188,7 +188,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/gigi.jpg';
+        elem4.src = 'gigi.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -204,7 +204,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/lv.jpg';
+        elem4.src = 'lv.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -218,7 +218,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/real.gif';
+        elem4.src = 'real.gif';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -233,7 +233,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/d1.gif';;
+        elem4.src = 'd1.gif';;
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -250,7 +250,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';;
+        elem4.src = 'dea1.gif';;
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -268,7 +268,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = 'dea1.gif';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -284,7 +284,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/gigiy.jpg';
+        elem4.src = 'gigiy.jpg';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -300,7 +300,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = 'dea1.gif';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
@@ -316,7 +316,7 @@ function getItem(){
 
 
         var elem4 = document.createElement("img");
-        elem4.src = '/images/dea1.gif';
+        elem4.src = 'dea1.gif';
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
