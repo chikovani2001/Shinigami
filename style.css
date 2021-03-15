@@ -88,10 +88,7 @@ html {
     font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Brush Script MT", cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Brush Script MT", cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px)and (-webkit-min-device-pixel-ratio: 2) {
-.center{
-    display: flex;
-    justify-content: center;
-}
+
 #input1{
     margin-right: 10px;
     font-size: 20px;
@@ -101,4 +98,20 @@ html {
     width: 50px;
     margin-left:30px;
 }
+#intro{
+    width: 200px;
+    height: 10px;
+}
+#demo{
+    margin-left: -20px;
+    width: 100px;
+    height: 10px;
+}
+#demo1{
+    margin-left: -20px;
+    width: 100px;
+    height: 10px;
+}
+
+
 }
