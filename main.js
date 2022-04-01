@@ -208,21 +208,7 @@ function getItem(){
         elem4.setAttribute("height", "200");
         elem4.setAttribute("width", "200");
         document.getElementById("placehere").appendChild(elem4);
-    }else if(variable == "ლიზი" ){
-        const elem3 = document.createElement('p');
-        elem3.style.color = 'white';
-        elem3.style.fontSize = '22px';
-        elem3.innerText = `${variable} შენ არასდროს გაგიმეტებდი სასიკვდილოდ`;
-        const target = document.querySelector('#intro');
-        target.parentNode.insertBefore(elem3, target);
-
-
-        var elem4 = document.createElement("img");
-        elem4.src = 'real.gif';
-        elem4.setAttribute("height", "200");
-        elem4.setAttribute("width", "200");
-        document.getElementById("placehere").appendChild(elem4);
-
+    }
     }else if(variable == "ლუკა" ){
         const elem3 = document.createElement('p');
         elem3.style.color = 'white';
